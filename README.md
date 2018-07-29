@@ -42,7 +42,7 @@ The theme files are pre-filled with all available variables so you can just set 
 
 ## Contributing
 
-Contributions in any form are welcome! If you find a bug, please [file an issue.](https://github.com/pretzelhands/react-semantic-boilerplate/issues) All contributors are asked to abide by the rules of the [Contributor Covenant.](./CODE_OF_CONDUCT.md)
+Contributions in any form are welcome! If you find a bug, please [file an issue.](https://github.com/pretzelhands/gatsby-starter-semantic-ui/issues) All contributors are asked to abide by the rules of the [Contributor Covenant.](./CODE_OF_CONDUCT.md)
 
 ## Updates
 
