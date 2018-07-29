@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h2>👋 Hey there!</h2>
+    <h2><span role="img" aria-label="Waving hand">👋</span> Hey there!</h2>
 
     <p>
       Welcome to this humble Gatsby Semantic UI starter. It is a very thin
